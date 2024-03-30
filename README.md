@@ -15,6 +15,6 @@
 
 3 - Criar uma integração com um serviço externo da escolha do time utilizando Feing. Pode ser criado um micro serviço novo em outra porta.
 
-4 - Incluir dtos para todas as entidades anotadas com Entity, ou seja, nos controllers o que é respondido response para o usuário é sempre um 
+4 - Incluir dtos para todas as entidades anotadas com Entity, ou seja, nos controllers o que é respondido response para o usuário é sempre um DTO.
 
 5 - Criar uma chamada no repository de clube uma listagem que ordene pelo nome do clube de forma ascendente.
